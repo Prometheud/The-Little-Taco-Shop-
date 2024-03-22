@@ -1,0 +1,8 @@
+table,
+th,
+tr,
+td,
+caption {
+  border: 2px solid black;
+  padding: 0.5;
+}
